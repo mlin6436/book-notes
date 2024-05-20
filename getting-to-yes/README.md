@@ -108,7 +108,27 @@
 
 ### Chapter 4 - Invent OPTIONS for Mutual Gain
 
-- Develop multiple options to choose from; decide later
+- Diagnosis
+  - Premature criticism - premature judgment
+  - Premature closure - searching for the single answer
+  - The assumption of a fixed pie
+  - Thinking that "solving their problem is their problem"
+- Prescription
+  - Separate the act of inventing options from the act of judging them - invent first, decide later: `Brain storming`
+  - Broaden the options on the table rather than look for a single answer
+    - Multiply options by shuttling between the specific and the general: `The Circle Chart`
+    - Look through the eyes of different experts
+    - Invent agreements of different strengths
+    - Change the scope of a proposed agreement
+  - Look for mutual gain
+    - Identify shared interests
+      - Shared interests lie latent in every negotiation
+      - Shared interests are opportunities, not godsends
+      - Stressing your shared interests can make the negotiation smoother and more amicable
+    - Dovetail differing interests: different beliefs, values placed on time, forecast, risk
+      - Ask for their preferences
+  - Make their decision easy
+    - 
 
 ### Chapter 5 - Insist on Using Objective CRITERIA
 
@@ -158,6 +178,12 @@
 > You can be just as hard in talking about your interests as any negotiator can be in talking about his position. In fact, it is usually advisable to be hard. It may not be wise to commit yourself to your position, but it is wise to commit yourself to your interests. This is the place in a negotiation to spend your aggressive energies. The other side, being concerned with their own interests, will tend to have overly optimistic expectations of the range of possible agreements. Often the wisest solutions, those that produce the maximum gain for you at the minimum cost to the other side, are produced only by strongly advocating your interests. Two negotiators, each pushing hard for their interests, will often stimulate each other's creativity in thinking up mutually advantageous solutions.
 
 > Negotiating hard for your interests does not mean being closed to the other side's point of view. Quite the contrary. You can hardly expect the other side to listen to your interests and discuss the options you suggest if you don't take their interests into account and show yourself to be open to their suggestions. Successful negotiation requires being both firm and open.
+
+### Chapter 4
+
+> Even apart from a shared interest in averting joint loss, there almost always exists the possibility of joint gain. This may take the form of developing a mutually advantageous re- lationship, or of satisfying the interests of each side with a creative solution.
+
+> If dovetailing had to be summed up in one sentence, it would be: Look for items that are of low cost to you and high benefit to them, and vice versa. Differences in interests, priorities, beliefs, forecasts, and attitudes toward risk all make dovetailing possible. A negotiator's motto could be "Vive la difference!"
 
 ## 📖 Reading Log
 
