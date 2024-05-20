@@ -128,12 +128,16 @@
     - Dovetail differing interests: different beliefs, values placed on time, forecast, risk
       - Ask for their preferences
   - Make their decision easy
-    - 
 
 ### Chapter 5 - Insist on Using Objective CRITERIA
 
-- Try to reach a result based on standards independent of will
-- Reason and be open to reasons; yield to principle, not pressure
+- Developing objective criteria
+  - Fair standards
+  - Fair procedures
+- Negotiating with objective criteria
+  - Frame each issue as a joint search for objective criteria.
+  - Reason and be open to reason as to which standards are most appropriate and how they should be applied.
+  - Never yield to pressure, only to principle.
 
 ## 📝 Notes
 
@@ -185,14 +189,24 @@
 
 > If dovetailing had to be summed up in one sentence, it would be: Look for items that are of low cost to you and high benefit to them, and vice versa. Differences in interests, priorities, beliefs, forecasts, and attitudes toward risk all make dovetailing possible. A negotiator's motto could be "Vive la difference!"
 
+### Chapter 5
+
+> In short, the approach is to commit yourself to reaching a solution based on principle, not pressure. Concentrate on the merits of the problem, not the mettle of the parties. Be open to reason, but closed to threats.
+
+> A constant battle for dominance threatens a relationship; principled negotiation protects it. It is far easier to deal with people when both of you are discussing objective standards for settling a problem instead of trying to force each other to back down.
+
+> At minimum, objective criteria need to be independent of each side's will. Ideally, to assure a wise agreement, objective criteria should be not only independent of will but also both legitimate and practical. 
+
+> Shifting discussion in a negotiation from the question of what the other side is willing to do to the question of how the matter ought to be decided does not end argument, nor does it guarantee a favorable result. It does, however, provide a strategy you can vigorously pursue without the high costs of positional bargaining.
+
 ## 📖 Reading Log
 
 | Date       | Time Spent | Pages Read | Takeaway                          |
 |------------|------------|------------|-----------------------------------|
-| 2024-05-13 | 2 hours    | 23         | Treat others not as adversaries, but partners whom to work together to reach the same goal |
-| 2024-05-15 | 2 hours   | 31         | Look behind the obvious |
-| yyyy-mm-dd | hh:mm:ss   | xx         | [Most important takeaway]         |
-| ...        | ...        | ...        | ...                               |
+| 2024-05-13 | 2 hours    | 1-23         | Treat others not as adversaries, but partners whom to work together to reach the same goal |
+| 2024-05-15 | 2 hours    | 23-31        | Look behind the obvious |
+| 2024-05-20 | 2 hours    | 31-42        | Approach a negotiation well prepared |
+| 2024-05-20 | 2 hours    | 42-49        | Establish fair standards and approaches to avoid positional bargaining |
 
 
 ## 🌟 Review
